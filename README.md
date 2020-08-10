@@ -3,7 +3,6 @@ Macro Keyboard with adjustable keys
 
 ## Features
 
-
 * Adjust macros what you want to do for each key up to 30 buttons
 * Macros saved in EEPROM and it is nonvolatile until the next override
 * Hotkey support up to six buttons
@@ -11,8 +10,8 @@ Macro Keyboard with adjustable keys
 
 
 ## Requirements
-
 ### Hardware
+
 * Arduino leonardo or and alternative microcontroller that have internal usb support
 * Keypad
 * Jumper wires male-male
@@ -30,6 +29,10 @@ Macro Keyboard with adjustable keys
 	* Keyboard library, EEProm library is pre-installed libraries 
 
 
+## Instructions
+You can follow the instructions here
+
+
 ## Features can be added: 
 
 * v-usb support for decrasing cost on microcontroller side.
@@ -38,6 +41,14 @@ Macro Keyboard with adjustable keys
 * Visual improvements and general improvements on binding application.
 
 
+## Tutorials for used technologies in this project
+If you interested in this project and develop something in it, this links can be helpful
+
+* [Tkinter](http://effbot.org/tkinterbook/)
+* [Tkinter for using multiple frames](https://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter)
+* [Tkinter message box](https://pythonbasics.org/tkinter-messagebox/)
+* [Arduino keyboard library](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/)
+* [pySerial](https://github.com/WaveShapePlay/ArduinoPySerial_LearningSeries)
 
 
 
