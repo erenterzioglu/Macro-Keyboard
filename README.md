@@ -14,7 +14,7 @@ Macro Keyboard with adjustable keys
 ## Requirements
 ### Hardware
 
-* Arduino leonardo or and alternative microcontroller that have internal usb support
+* Arduino leonardo or an alternative microcontroller that have internal usb support
 * Keypad
 * Jumper wires male-male
 
