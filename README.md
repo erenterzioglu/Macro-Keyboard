@@ -32,7 +32,7 @@ Macro Keyboard with adjustable keys
 
 
 ## Instructions
-You can follow the instructions here
+You can follow the instructions [here](https://hackaday.io/project/174258-macro-keyboard)
 
 
 ## Features can be added: 
