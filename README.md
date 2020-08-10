@@ -1,7 +1,7 @@
 # Macro-Keyboard
 Macro Keyboard with adjustable keys
 
-##Features
+## Features
 
 
 * Adjust macros what you want to do for each key
@@ -9,21 +9,26 @@ Macro Keyboard with adjustable keys
 * Open for development
 
 
-##Requirements
-###Hardware
+## Requirements
+### Hardware
 * Arduino leonardo or and alternative microcontroller that have internal usb support
 * Keypad
 * Jumper wires male-male
 
-###Software:
+### Software:
+
 * Arduino ide or Visual Studio Code and PlatformIO add on
-* Python and libraries: keyboard, pyserial
-* Libraries for arduino: Keypad from
-	*		Arduino platform if you are using PlatformIO
-	*		Keyboard library, EEProm library is pre-installed ones 
+* Python and libraries: 
+	* [keyboard] (https://github.com/boppreh/keyboard) 
+	* [pySerial ] (https://github.com/pyserial/pyserial)
+	
+* Libraries for arduino development: 
+	* [Keypad] (https://github.com/Chris--A/Keypad)
+	* Arduino platform if you using PlatformIO
+	* Keyboard library, EEProm library is pre-installed libraries 
 
 
-##Features can be added: 
+## Features can be added: 
 
 * v-usb support for decrasing cost on microcontroller side.
 * Add a bindings valid bit for sending less value on microcontroller.
