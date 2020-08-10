@@ -1,6 +1,8 @@
 # Macro-Keyboard
 Macro Keyboard with adjustable keys
 
+![Main Logo](Pinout_Diagram.png)
+
 ## Features
 
 * Adjust macros what you want to do for each key up to 30 buttons
