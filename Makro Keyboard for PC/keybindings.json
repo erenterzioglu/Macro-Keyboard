@@ -1,0 +1,131 @@
+{
+    "buttons": [
+        {
+            "button_num": "0",
+            "button_attributes": [
+                "m",
+                "e",
+                "r",
+                "h",
+                "a",
+                "b",
+                "a"
+            ]
+        },
+        {
+            "button_num": "1",
+            "button_attributes": [
+                "a",
+                "b",
+                "c"
+            ]
+        },
+        {
+            "button_num": "2",
+            "button_attributes": []
+        },
+        {
+            "button_num": "3",
+            "button_attributes": [
+                "\u0002",
+                "\u0080",
+                "a",
+                "\u0002",
+                "\u0002",
+                "\u0080",
+                "c",
+                "\u0002"
+            ]
+        },
+        {
+            "button_num": "4",
+            "button_attributes": [
+                "\u0002",
+                "a",
+                "s",
+                "\u0002"
+            ]
+        },
+        {
+            "button_num": "5",
+            "button_attributes": [
+                "\u0002",
+                "\u0080",
+                "a",
+                "\u0002",
+                "\u0002",
+                "\u0080",
+                "c",
+                "\u0002",
+                "\u0002",
+                "\u0080",
+                "v",
+                "\u0002"
+            ]
+        },
+        {
+            "button_num": "6",
+            "button_attributes": []
+        },
+        {
+            "button_num": "7",
+            "button_attributes": []
+        },
+        {
+            "button_num": "8",
+            "button_attributes": []
+        },
+        {
+            "button_num": "9",
+            "button_attributes": [
+                "\u0002",
+                "\u0080",
+                "a",
+                "\u0002",
+                "\u0002",
+                "\u0080",
+                "c",
+                "\u0002",
+                "\u0002",
+                "\u0080",
+                "v",
+                "\u0002"
+            ]
+        },
+        {
+            "button_num": "10",
+            "button_attributes": []
+        },
+        {
+            "button_num": "11",
+            "button_attributes": []
+        },
+        {
+            "button_num": "12",
+            "button_attributes": []
+        },
+        {
+            "button_num": "13",
+            "button_attributes": []
+        },
+        {
+            "button_num": "14",
+            "button_attributes": []
+        },
+        {
+            "button_num": "15",
+            "button_attributes": [
+                "\u0002",
+                "\u0080",
+                "\u0002",
+                "\u0002",
+                "a",
+                "s",
+                "\u0002",
+                "a",
+                "a",
+                "b"
+            ]
+        }
+    ]
+}
