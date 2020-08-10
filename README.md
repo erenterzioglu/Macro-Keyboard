@@ -19,11 +19,11 @@ Macro Keyboard with adjustable keys
 
 * Arduino ide or Visual Studio Code and PlatformIO add on
 * Python and libraries: 
-	* [keyboard] (https://github.com/boppreh/keyboard) 
-	* [pySerial ] (https://github.com/pyserial/pyserial)
+	* [keyboard](https://github.com/boppreh/keyboard) 
+	* [pySerial](https://github.com/pyserial/pyserial)
 	
 * Libraries for arduino development: 
-	* [Keypad] (https://github.com/Chris--A/Keypad)
+	* [Keypad](https://github.com/Chris--A/Keypad)
 	* Arduino platform if you using PlatformIO
 	* Keyboard library, EEProm library is pre-installed libraries 
 
