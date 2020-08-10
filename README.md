@@ -52,6 +52,9 @@ If you interested in this project and develop something in it, this links can be
 * [Arduino keyboard library](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/)
 * [pySerial](https://github.com/WaveShapePlay/ArduinoPySerial_LearningSeries)
 
+## Contact
 
+[LinkedIn](https://www.linkedin.com/in/eren-terzio%C4%9Flu-668155180/?originalSubdomain=tr)
+[hackaday.io](https://hackaday.io/ErenTerzioglu)
 
 
