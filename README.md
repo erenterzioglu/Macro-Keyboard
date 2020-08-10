@@ -4,12 +4,14 @@ Macro Keyboard with adjustable keys
 ## Features
 
 
-* Adjust macros what you want to do for each key
+* Adjust macros what you want to do for each key up to 30 buttons
 * Macros saved in EEPROM and it is nonvolatile until the next override
+* Hotkey support up to six buttons
 * Open for development
 
 
 ## Requirements
+
 ### Hardware
 * Arduino leonardo or and alternative microcontroller that have internal usb support
 * Keypad
