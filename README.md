@@ -1,7 +1,7 @@
 # Macro-Keyboard
 Macro Keyboard with adjustable keys
 
-<img src="Pinout_Diagram.png" width="420" height="526">
+<img src="Pinout_Diagram.png" width="526" height="420">
 
 ## Features
 
