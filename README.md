@@ -35,12 +35,12 @@ Macro Keyboard with adjustable keys
 You can follow the instructions [here](https://hackaday.io/project/174258-macro-keyboard)
 
 
-## Features can be added: 
+## Features can be added 
 
-* v-usb support for decrasing cost on microcontroller side.
-* Add a bindings valid bit for sending less value on microcontroller.
-* Support for accent keys.
-* Visual improvements and general improvements on binding application.
+* v-usb support for decrasing cost on microcontroller side
+* Add a bindings valid bit for sending less value on microcontroller
+* Support for accent keys
+* Visual improvements and general improvements on binding application
 
 
 ## Tutorials for used technologies in this project
