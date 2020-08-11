@@ -6,7 +6,7 @@ using PlatformIO you can use "for PlatformIO" folder.
 ## Functions that used in microcontroller and general information about that
 
 * clearEEPROM(): Clears EEPROM from old values
-* writeEEPRom(): Writing new values that comes from PC.
-* readEEPROM(): When device starts, takes bindings that lastly remain in keyboard.
-* buttonPressed(): When a button press, handles bindings.
-* pressButton(): When button is modifier or not it handles. 
+* writeEEPRom(): Writing new values that comes from PC
+* readEEPROM(): When device starts, takes bindings that lastly remain in keyboard
+* buttonPressed(): When a button press, handles bindings
+* pressButton(): When button is modifier or not handling 
